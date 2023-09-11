@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dmitrii <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> schoolkid, python backend developer</h3>
-
-
+# Main languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1ecful&layout=compact&langs_count=16&theme=github_dark"/>
+<div/>
