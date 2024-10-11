@@ -1,4 +1,4 @@
-# Main languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1ecful&layout=compact&langs_count=16&theme=github_dark"/>
-<div/>
+# Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P1ecful&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P1ecful&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P1ecful&theme=ayu_mirage)
